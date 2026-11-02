@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>رزومه شخصی</title>
+</head>
+<body>
+    <h1 style="font-family: Bnazanin; color:#18365d;">سارا بهشتی سنگانی</h1>
+    <h2 style="font-family: Bnazanin; color: #52769c;">رشته ی مهندسی کامپیوتر | ترم7</h2>
+    <p style="font-family: Bnazanin; color: #737e8e;">تربت جام،ایران | 09305841382 | sbeheshti120@gmail.com</p>
+    <img src="photo_2026-10-15_15-40-13.jpg"; alt="تصویر سارا بهشتی سنگانی"; style="width:200px; height:200px; max-height:75vw; object-fit:cover; border:6px solid #171717; border-radius:50%" >
+    <nav style="background-color: #e9eff6;">
+        <a href="#about">درباره ی من</a>
+        <span style="color: #18365d;">|</span>
+        <a href="#skills">مهارت ها</a>
+        <span style="color: #18365d;">|</span>
+        <a href="#experience">سوابق تحصیلی</a>
+        <span style="color: #18365d;">|</span>
+        <a href="#projects">پروژه ها</a>
+        <span style="color: #18365d;">|</span>
+        <a href="#contact">ارتباط با من</a>
+    </nav>
+    <section id="about">
+        <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;">درباره ی من</h2>
+        <p style="font-family: Bnazanin; color: #171717; background: #547aa5; border: 1px #171717 solid; padding: 25px 50px 25px 7px; margin: 25px 50px 25px 50px;">من <strong>سارا بهشتی سنگانی</strong>هستم، دانشجوی مهندسی کامپیوتر در ترم هفتم هستم. و به <strong> یادگیری برنامه نویسی و طراحی وب </strong>علاقه دارم.</p>
+        <p style="font-family: Bnazanin;"><em>معتقدم سادگی در طراحی، یکی از مهم ترین ویژگی های یک محصول دیجیتال موفق است.</em></p>
+        <p style="font-family: Bnazanin;"><mark>آماده همکاری در پروژه های جدید</mark></p>
+    </section>
+    <section id="skills">
+        <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;">مهارت های تخصصی</h2>
+        <h2 style="font-family: Bnazanin; color: #52769c;">توسعه وب</h2>
+        <ul>
+            <li><strong>HTML</strong> _ متوسط</li>
+            <li><strong>CSS</strong> _ متوسط</li>
+            <li>Python _ کم</li>
+            <li>C++ _ متوسط</li>
+            <p style="font-family: Bnazanin;"><mark>مهارت اصلی : هیچکدام</mark></p>
+        </ul>
+        <h2 style="font-family: Bnazanin; color: #52769c;">مهارت های فردی</h2>
+        <ol>
+            <li>ادمینی</li>
+            <li>بافتنی</li>
+            <li>دارای روحیه ی تیمی</li>
+            <li>علاقه به یادگیری</li>
+        </ol>
+        <p style="font-family: Bnazanin;"><em>یادگیری مداوم را بخش مهمی از مسیر خود می دانم. </em></p>
+    </section>
+    <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;" id="experience">سوابق تحصیلی</h2>
+    <table>
+            <thead style="font-family: Bnazanin; background-color:#18365d; color: white;">
+                <tr>
+                    <th>مقطع</th>
+                    <th>رشته تحصیلی</th>
+                    <th>مرکز آموزشی</th>
+                    <th>سال</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr style="font-family: Bnazanin; background-color: #e9eff6;">
+                    <td><strong>لیسانس</strong></td>
+                    <td>مهندسی کامپیوتر</td>
+                    <td>دانشگاه تربت جام</td>
+                    <td>1402 تا 1406</td>
+                </tr>
+                <tr>
+                    <td>دیپلم</td>
+                    <td>علوم تجربی</td>
+                    <td>دبیرستان شایستگان</td>
+                    <td>1398 تا 1401</td>
+                </tr>
+            </tbody>
+        </table>
+        <section>
+        <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;" id="projects">نمونه پروژه‌ها</h2>
+        <table>
+            <thead style="font-family: Bnazanin; background-color:#18365d; color: white;">
+                <tr>
+                    <th>نام پروژه</th>
+                    <th>توضیحات</th>
+                    <th>مشاهده</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="font-family: Bnazanin; background-color: #e9eff6;">
+                    <td><strong>وبسایت فروشگاهی</strong></td>
+                    <td>طراحی صفحات فروشگاه اینترنتی</td>
+                    <td><a href="#">لینک پروژه</a></td>
+                </tr>
+                <tr>
+                    <td>وبسایت شخصی</td>
+                    <td>طراحی صفحه رزومه و نمونه‌کار</td>
+                    <td><a href="#">لینک پروژه</a></td>
+                </tr>
+                <tr style="font-family: Bnazanin; background-color: #e9eff6;">
+                    <td>سایت نظرسنجی</td>
+                    <td>طراحی فرم  نظرسنجی دانشجویان</td>
+                    <td><a href="#">لینک پروژه</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <p style="font-family: Bnazanin;"><small>لینک های پروژه در این رزومه صرفا نمونه آموزشی هستند.</small></p>
+     <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;" id="experience">اهداف حرفه ای</h2>
+        <p style="font-family: Bnazanin;">هدف من تبدیل شدن به یک <strong>توسعه دهنده Full-Stack</strong>  و مشارکت در ساخت محصولات دیجیتال تاثیرگذار است.</p>
+        <p style="font-family: Bnazanin;"><em>برنامه نویسی فقط نوشتن کد نیست؛ بلکه پیدا کردن راه حل مناسب برای مسائل واقعی است.</em></p>
+        <h2 style="color: #547aa5;">برنامه یادگیری من</h2>
+        <pre style="background-color: #f0f5fa; color: #19395f;text-align: left;font-family: Bnazanin;">Step 1: HTML
+Step 2: CSS
+Step 3: JavaScript
+Step 4: React
+Step 5: Node.js
+Step 6: Database
+Step 7: Full-Stack Projects</pre>
+    <p style="font-family: Bnazanin; color: #737e8e;"><small>این برنامه مسیر پیشنهادی یادگیری من در سال 1405 است.</small></p>
+    <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;" id="contact">فرم ارتباط با من</h2>
+        <p style="font-family: Bnazanin; color: #737e8e;">
+            برای پیشنهاد همکاری یا ثبت درخواست پروژه،
+            فرم زیر را تکمیل کنید.
+        </p>
+        <form>
+            <label for="fullname">نام و نام خانوادگی:</label>
+            <input type="text" name="fullname">
+            <br>
+            <label for="email">ایمیل:</label>
+            <input type="text" name="email">
+            <br>
+            <label for="password">رمز عبور آزمایشی:</label>
+            <input type="text" name="password">
+            <h2 style="color: #547aa5;"> نوع درخواست </h2>
+            <label>
+                <input type="radio" name="request" value="job">
+                همکاری شغلی
+            </label>
+            <label>
+                <input type="radio" name="request" value="project">
+                سفارش پروژه
+            </label>
+            <label>
+                <input type="radio" name="request" value="other">
+                سایر موارد
+            </label>
+            <h2 style="color: #547aa5;"> خدمات مورد نیاز </h2>
+            <label>
+                <input type="checkbox" name="services" value="web">
+                طراحی وبسایت
+            </label>
+            <label>
+                <input type="checkbox" name="services" value="software">
+                توسعه نرم‌افزار
+            </label>
+            <label>
+                <input type="checkbox" name="services" value="consulting">
+                مشاوره تخصصی
+            </label>
+            <br>
+            <label for="budget">بودجه پیشنهادی:</label>
+            <select id="budget" name="budget">
+                <option value="">انتخاب بودجه</option>
+                <option value="low">کمتر از ۵ میلیون تومان</option>
+                <option value="medium">۵ تا ۱۵ میلیون تومان</option>
+                <option value="high">بیشتر از ۱۵ میلیون تومان</option>
+            </select>
+            <br>
+            <label for="description">توضیحات درخواست:</label>
+            <input type="text" id="description" name="description"
+                   style="width: 165px;">
+                   <br>
+                   <button type="submit"style="background-color: #1e3a5f; color: white; font-family: Bnazanin; cursor: pointer;"> ثبت درخواست</button>
+    </form>
+    </section>
+    <p style="font-family: Bnazanin; color: #737e8e;">توجه : این فرم صرفا برای اهداف آموزشی طراحی شده است.</p>
+    <h2 style="font-family: Bnazanin; color: #18365d; background-color: #e9eff6;" id="contact">راه‌های ارتباطی</h2>
+    <div>
+        <a href="mailto:example@gmail.com; color: #18365d;">ایمیل</a>
+        <span style="color: #18365d;">|</span>
+        <a href="https://github.com/; color: #18365d;">گیت‌هاب</a>
+        <span style="color: #18365d;">|</span>
+        <a href="https://linkedin.com/"; color: #18365d;>لینکدین</a>
+    </div>
+    <br>
+    <footer style="background-color: #18365d; color: white; font-family: Bnazanin;">رزومه ی شخصی | سارا بهشتی سنگانی | 1405</footer>
+</body>
+</html>
